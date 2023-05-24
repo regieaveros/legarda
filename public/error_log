@@ -1,0 +1,4 @@
+[07-Feb-2020 03:48:54 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/legardaplace/public_html/public/index.php on line 50
+[07-Feb-2020 03:48:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/legardaplace/public_html/public/index.php on line 50
+[07-Feb-2020 03:49:06 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/legardaplace/public_html/public/index.php on line 50
+[07-Feb-2020 03:49:12 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/legardaplace/public_html/public/index.php on line 50

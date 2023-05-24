@@ -1,0 +1,24 @@
+*{
+    /*width:auto*/;
+}
+
+@media(max-width:1200px){
+    *{
+    /*width:auto*/;
+    }
+    .sticky-logo{
+        position:relative !important;
+    }
+}
+@media(max-width:991px){
+    *{
+        /*width:auto*/;
+    }
+
+#primary-menu li {
+    margin: 0 5px;
+}
+    .sticky-logo{
+        position:relative !important;
+    }
+}

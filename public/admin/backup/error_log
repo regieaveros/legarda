@@ -1,0 +1,1 @@
+[19-Feb-2019 03:01:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'your_username'@'localhost' (using password: YES) in /home/froneri1devsinc/public_html/assetmanagement/backup/backup.php on line 109

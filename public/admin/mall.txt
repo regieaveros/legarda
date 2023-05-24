@@ -1,0 +1,7 @@
+{
+	"mapwidth": "1000",
+	"mapheight": "600",
+	"categories": [
+		
+	],
+	"levels": [

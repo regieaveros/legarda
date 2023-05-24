@@ -1,0 +1,323 @@
+@media (max-width: 800px){
+	*{
+		/*width:auto;*/
+	}
+
+.gal-item {
+    margin: 5px;
+    width: 100%;
+    max-width: unset;
+}
+
+.loader-container {
+    top: 0;
+}
+
+img#loader-image {
+    top: 243px !important;
+    left: 22% !important;
+}
+
+.my-form {
+    padding: 0;
+}
+
+.new-btn {
+    top: 10px;
+    right: 15px;
+}
+
+.frm-new, .frm-update {
+    position: relative !important;
+    width: 100%;
+}
+
+#idrModal .modal-body tr {
+    margin: 0 !important;
+}
+
+#idrModal .modal-body thead {
+    display: inline-block !important;
+    padding: 0 !important;
+    height: auto !important;
+    color: #222;
+    clip: unset;
+}
+
+#td-table {
+    display: inline-block;
+    width: 100% !important;
+}
+
+tbody {
+    width: 100%;
+    display: inline-block;
+}
+
+#idrModal .modal-body tbody {
+    max-width: unset !important;
+    float: right !important;
+}
+
+.array-list {
+    float: none;
+    /* overflow: scroll; */
+    display: inline;
+}
+
+table td:first-child {
+    width: 100% !important;
+}
+
+table td {
+    border: none;
+    height: auto;
+    min-height: 40px;
+    padding: 5px !important;
+    /* border-top: none !important; */
+}
+
+#td-table img {
+    width: 100%;
+}
+
+.search_form {
+    display: inline-block;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.table-head-controls {
+    background: #eee;
+    padding: 10px;
+}
+
+h2.table-title {
+    margin: 0;
+    padding: 10px !important;
+}
+
+li#logo {
+    padding: 0;
+    margin: 0 !important;
+}
+
+li#logo {}
+
+.btn-toggler i {
+    font-size: 24px;
+}
+
+div#navbarResponsive {
+    display: inline-block;
+    width: 100%;
+}
+
+ul#exampleAccordion {
+    display: inline-block;
+    float: left;
+}
+
+button.navbar-toggler.navbar-toggler-right {
+    display: none;
+}
+
+.card-header {
+    font-size: 14px;
+}
+
+.dashboard-containers {
+    font-size: 14px;
+}
+
+h2.title {
+    font-size: 18px;
+    background: none;
+}
+
+.sb-navs li, .sb-navs a {
+    text-align: left;
+}
+
+.topnav-second-level li {
+    padding: 5px 35px;
+    font-size: 14px;
+}
+
+.sgn-container label {
+    margin: 0;
+}
+
+.sgn-container {
+    padding: 0;
+}
+
+.jSignature {
+    height: 500px !important;
+}
+
+.system-title {
+    color: #fff;
+    display: none !important;
+}
+
+.navbar-nav.ml-auto.nav-right {
+    display: inline-block;
+    float: right;
+}
+
+.navbar-nav * {
+    display: inline-block;
+    padding: 0px;
+    font-size: 12px;
+}
+
+div#notifications {
+    margin: 0;
+    /* margin-left: 35px; */
+    margin-top: 5px;
+    top: 0;
+    left: 40px;
+}
+
+div#notifications.collapse {
+    display: none;
+}
+
+div#notifications.collapse.show {
+    display: inline-block;
+}
+
+.notif-area {
+    /* display: none; */
+    position: fixed;
+    top: 52px;
+    left: 10px;
+    background: #00b9db;
+    padding: 5px;
+}
+
+li#logo img {
+    padding: 14px;
+    background: #fff !important;
+    width: 100px;
+}
+
+nav#mainNav {
+    background: #00b9db !important;
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+
+.nav-link {
+    padding: 5px !important;
+    border-bottom: solid 1px;
+}
+
+.footer {
+    position: relative;
+    height: auto;
+    display: inline-block;
+}
+
+.btn-toggler {
+    display: inline-block;
+    background: #a0e5f2;
+    text-align: right;
+    width: 100%;
+}
+
+.f-bol {
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 30px !important;
+}
+
+.my-form h2 {
+    padding-bottom: 10px !important;
+}
+
+.form-group.formbuttons {
+    padding: 10px;
+    top: 88px;
+    right: 0;
+    position: fixed;
+    width: 100%;
+    margin: 0 !important;
+    background: #ddd;
+}
+
+.content-wrapper {
+    width: 100%;
+    margin-top: 95px;
+}
+
+.content-wrapper.mtbl-cont {
+    margin-top: 66px;
+}
+
+.sb-navs {
+    position: relative;
+    display: inline-block;
+    padding: 0;
+    max-height: 0px !important;
+    overflow: hidden;
+    margin: 0 !important;
+    transition: all 1s ease;
+}
+
+.sb-navs.active {
+    padding-bottom: 15px;
+}
+
+.sb-navs.active {
+    max-height: 1000px !important;
+    padding-bottom: 0;
+}
+
+.sidebar {
+    width: 100%;
+    min-height: unset;
+    text-align: center;
+    padding: 0;
+    margin-bottom: -20px;
+    position: fixed;
+    top: 77px;
+    z-index: 1;
+}
+
+.sidebar.active {}
+
+li#nav-Settings {
+    float: unset;
+    position: relative !important;
+    display: list-item !important;
+    color: #fff !important;
+    right: inherit;
+}
+}
+
+@media (max-width: 1024px) {
+    img#loader-image {
+        top: 154px;
+        left: 253px;
+    }
+}
+
+@media (max-width: 767px) {
+    img#loader-image {
+        /* top: 243px !important; */
+        left: 6% !important;
+        width: 35% !important;
+    }
+}
+
+@media (max-width: 320px) {
+    img#loader-image {
+        /* top: 243px !important; */
+        left: 3% !important;
+        width: 35% !important;
+    }
+}
+

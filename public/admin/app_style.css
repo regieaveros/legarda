@@ -1,0 +1,148 @@
+/* CSS Document */
+
+*{
+	/*width:auto;*/
+}
+.audit-img {
+    display: inline-block;
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+}
+.audit-title {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.audit {
+    display: inline-block;
+    border: solid;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: calc(100% - 30px);
+    text-align: left;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+.form-check-label {
+    font-weight: unset;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-control {
+    padding: 10px;
+    height: auto;
+}
+
+.form {
+    text-align: left;
+    padding: 15px;
+    padding-top: 0;
+}
+
+.anb {
+    display: inline-block;
+}
+
+.an-back {
+    display: inline-block;
+    width: 100%;
+    background: #111;
+    color: #fff;
+    padding: 5px 10px;
+}
+
+.anl i {
+    font-size: 48px;
+    display: inline-block;
+    margin-top: 10px;
+    width: 100%;
+    color: #00b9db;
+}
+
+.an-title {
+    font-weight: bold;
+    font-size: 24px;
+    color: #fff;
+}
+
+.anl {
+    display: inline-block;
+    font-weight: bold;
+    background: #fff;
+    margin: 10px;
+    padding: 10px 7px;
+    width: calc(50% - 30px);
+    /* float: left; */
+    height: 115px;
+    color: #222;
+}
+
+.an-links {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background: #dddddd;
+    /* margin-top: 15px; */
+    color: #fff;
+    padding: 10px 5px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.an-logo img {
+    width: 150px;
+}
+
+.an-logo {
+    margin-bottom: 5px;
+    /* background: #fff; */
+    display: inline-block;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+.app-nav {
+    position: absolute;
+    z-index: 999;
+    width: 100%;
+    height: 100px;
+    left: 0;
+    top: 0;
+    background: #222;
+    padding-top: 10px;
+}
+
+.page {
+    width: 100%;
+    text-align: center;
+    background: #ddd;
+    z-index: 0;
+    display: none;
+    padding-top: 130px;
+    min-height: 100vh;
+}
+
+.page.active {
+    z-index: 1;
+    display: block;
+}
+
+div#app {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: #222;
+    /* color: #fff; */
+    /* overflow: hidden; */
+}

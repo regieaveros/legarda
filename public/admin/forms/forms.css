@@ -1,0 +1,123 @@
+/* CSS Document */
+*{
+	/*width:auto;*/
+	margin: 0;
+}
+
+.talaf-container img {
+    width: 100%;
+    /* margin-left: 100px; */
+}
+@media print {
+	body{
+		margin:0;
+	}
+  #cus_name {
+    top: 80px;
+    left: 270px;
+}
+
+.obj {position: absolute;font-size: 24px;}
+
+#cus_contact_person {
+    top: 200px;
+    right: 125px;
+}
+
+div#cus_telephone {
+    top: 140px;
+    right: 160px;
+}
+
+#cus_contact {
+    top: 80px;
+    right: 160px;
+}
+
+#cus_address {
+    top: 135px;
+    left: 270px;
+}
+
+.talaf-container {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+	 background-image: url('tala.jpg') !important;
+}
+}
+/*print end*/
+#cus_name {
+    top: 200px;
+    left: 215px;
+}
+
+.tadr #cus_name {
+    top: 175px;
+    left: 160px;
+}
+
+.obj {position: absolute;font-size: 18px;}
+
+#cus_asset {
+    bottom: 65px;
+    left: 380px;
+}
+
+#cus_deployment {
+    bottom: 60px;
+    left: 115px;
+}
+
+#cus_remarks {
+    bottom: 400px;
+    right: 125px;
+}
+
+.tadr #cus_remarks {
+    top: 343px;
+    background: #b6b5b1;
+}
+
+#cus_contact_person {
+    top: 290px;
+    right: 125px;
+}
+
+.tadr #cus_contact_person {
+    top: 235px;
+    right: 145px;
+}
+
+div#cus_telephone {
+    top: 250px;
+    right: 160px;
+}
+
+#cus_contact {
+    top: 200px;
+    right: 160px;
+}
+
+.tadr #cus_contact {
+    top: 238px;
+    right: 435px;
+}
+
+#cus_address {
+    top: 240px;
+    left: 215px;
+}
+
+.tadr #cus_address {
+    top: 210px;
+}
+
+.talaf-container {
+    width: 1056px;
+    height: 816px;
+    position: relative;
+    /* display: inline-block; */
+}
+

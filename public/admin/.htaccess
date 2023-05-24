@@ -1,0 +1,9 @@
+#RewriteEngine On
+#RewriteCond %{THE_REQUEST} (?:/[^/]*)*/index\.php[?#\ ]
+#RewriteRule .* %{REQUEST_URI}/../ [L,R=301]
+
+#RewriteBase /
+
+#RewriteCond %{REQUEST_URI} ^$
+#RewriteCond %{HTTP_HOST} ^legardaplace.com$
+#RewriteRule ^$ http://legardaplace.com/public/admin/index.php [L,R=301]

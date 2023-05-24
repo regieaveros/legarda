@@ -1,0 +1,66 @@
+[14-Feb-2019 03:40:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:40:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:44:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:44:37 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:45:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:45:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:45:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:45:57 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:47:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:47:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:47:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:47:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:47:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:47:03 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:47:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:47:53 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:48:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:48:40 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:48:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:48:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:48:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(41): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
+[14-Feb-2019 03:49:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:49:21 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(41): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
+[14-Feb-2019 03:50:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:50:27 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:50:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(42): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
+[14-Feb-2019 03:50:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:50:47 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:50:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(42): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
+[14-Feb-2019 03:51:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:51:12 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:51:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(42): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
+[14-Feb-2019 03:52:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; OLERead has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 95
+[14-Feb-2019 03:52:10 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Spreadsheet_Excel_Reader has a deprecated constructor in /home/froneri1devsinc/public_html/assetmanagement/excel/php-excel-reader/excel_reader2.php on line 312
+[14-Feb-2019 03:52:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ZipArchive' not found in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php:217
+Stack trace:
+#0 /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader.php(166): SpreadsheetReader_XLSX->__construct('hlb.xlsx')
+#1 /home/froneri1devsinc/public_html/assetmanagement/excel/test.php(43): SpreadsheetReader->__construct('hlb.xlsx')
+#2 {main}
+  thrown in /home/froneri1devsinc/public_html/assetmanagement/excel/SpreadsheetReader_XLSX.php on line 217
